@@ -1,0 +1,5 @@
+{
+  "name": "Virtuoso AI Piano",
+  "description": "A 3D-styled interactive piano learning game powered by Gemini AI. Learn songs, visualize notes, and generate new exercises dynamically.",
+  "requestFramePermissions": []
+}
